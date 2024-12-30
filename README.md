@@ -22,7 +22,7 @@ CSS-Tricks (https://css-tricks.com/): A highly regarded website for learning CSS
 
 W3Schools (https://www.w3schools.com/): This website is a great starting point for beginners, offering simple and clear tutorials on HTML, CSS, JavaScript, and other web technologies.
 
-Stack Overflow (https://stackoverflow.com/): Whenever I faced a coding issue that I couldn’t solve, Stack Overflow was a lifesaver. It’s a community-driven platform where developers ask questions and share solutions. I often found answers to the problems I encountered while debugging my code.
+Stack Overflow (https://stackoverflow.com/): Whenever I faced a coding issue that I couldn’t solve, Stack Overflow was a lifesaver. It’s a community-driven platform where developers ask questions and share solutions.
 
 GitHub Docs (https://docs.github.com/en/github): This was essential for learning how to manage my GitHub repository. It provided clear instructions on committing changes, managing branches, and collaborating with others.
 Conclusion
