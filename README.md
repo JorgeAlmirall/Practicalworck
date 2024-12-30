@@ -1,4 +1,4 @@
-# Design Detailed Document (DDD)
+# Practicalworck
 
 ## Description of My Work
 This project involves creating a personal website using HTML and CSS. The website aims to showcase my academic achievements, progress in my degree program, and provide information about myself. The website includes sections like "About Me," "My Degree," "My Projects," and "Contact."
